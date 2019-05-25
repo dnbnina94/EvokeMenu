@@ -1,0 +1,217 @@
+@font-face {
+    font-family: HelveticaNeueThin;
+    src: url('../font/HelveticaNeue-Thin.otf');
+}
+
+body {
+    background: rgb(13,47,79);
+    background: -moz-linear-gradient(73deg, rgb(13,47,79) 0%, rgb(25,67,106) 100%);
+    background: -webkit-linear-gradient(73deg, rgb(13,47,79) 0%, rgb(25,67,106) 100%);
+    background: -ms-linear-gradient(73deg, rgb(13,47,79) 0%, rgb(25,67,106) 100%);
+    background: -o-linear-gradient(73deg, rgb(13,47,79) 0%, rgb(25,67,106) 100%);
+
+    color: white;
+    font-family: HelveticaNeueThin;
+    font-size: 32px;
+
+    overflow: hidden;
+}
+
+#logo {
+    padding-top: 8px;
+    padding-right: 1.5px;
+}
+
+#holder_lines {
+    height: 800px;
+    margin: -400px 0 0 -400px;
+    width: 800px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+#holder {
+    height: 600px;
+    margin: -300px 0 0 -300px;
+    width: 600px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+#holder_button_wrappers {
+    height: 600px;
+    margin: -300px 0 0 -300px;
+    width: 600px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+#wrapper {
+    width:260px;
+    height:150px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-75px 0 0 -130px;
+    text-align: center;
+}
+
+#wrapper2 {
+    height: 800px;
+    margin: -400px 0 0 -400px;
+    width: 800px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    text-align: center;
+}
+
+#web_icon_wrapper {
+    width: 33px;
+    height: 34px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -172px 0 0 72px;
+    cursor: pointer;
+}
+
+#linkedin_icon_wrapper {
+    width: 33px;
+    height: 34px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -23px 0 0 161px;
+    cursor: pointer;
+}
+
+#instagram_icon_wrapper {
+    width: 34px;
+    height: 35px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 139px 0 0 71px;
+    cursor: pointer;
+}
+
+#skype_icon_wrapper {
+    width: 37px;
+    height: 38px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 132px 0 0 -114px;
+    cursor: pointer;
+}
+
+#phone_icon_wrapper {
+    width: 32px;
+    height: 35px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -25px 0 0 -193px;
+    cursor: pointer;
+}
+
+#mail_icon_wrapper {
+    width: 35px;
+    height: 27px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -169px 0 0 -111px;
+    cursor: pointer;
+}
+
+#skype_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 207px 0 0 -395px;
+}
+
+#web_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -253px 0 0 270px;
+}
+
+#phone_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 59px 0 0 -450px;
+    font-size: 27px;
+}
+
+#linkedin_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -100px 0 0 258px;
+}
+
+#mail_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -236px 0 0 -388px;
+}
+
+#instagram_text_wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: 200px 0 0 193px;
+}
+
+#holder_mob_menu {
+    height: 280px;
+    margin: -140px 0 0 -140px;
+    width: 280px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}
+
+.mobIcon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    cursor: pointer;
+}
+
+#web_icon_wrapper_mob {
+    margin: -112px 0 0 42px;
+}
+
+#mail_icon_wrapper_mob {
+    margin: -114px 0 0 -70px;
+}
+
+#instagram_icon_wrapper_mob {
+    margin: 78px 0 0 41px;
+}
+
+#skype_icon_wrapper_mob {
+    margin: 77px 0 0 -68px;
+}
+
+#linkedin_icon_wrapper_mob {
+    margin: -17px 0 0 97px;
+}
+
+#phone_icon_wrapper_mob {
+    margin: -17px 0 0 -120px;
+}
+
+
+
+
